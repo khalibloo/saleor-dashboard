@@ -245,7 +245,6 @@ export default (colors: IThemeColors): Theme =>
         },
         root: {
           "& fieldset": {
-            background: colors.background.paper,
             borderColor: [[colors.input.border], "!important"] as any
           },
           "& legend": {
