@@ -81719,6 +81719,1930 @@ exports[`Storyshots Views / Product types / Unassign multiple attributes default
 />
 `;
 
+exports[`Storyshots Views / Products / Create multiple variants choose attributes 1`] = `
+<div
+  style="padding:24px"
+>
+  <div
+    class="MuiPaper-root-id MuiPaper-elevation1-id MuiPaper-rounded-id MuiCard-root-id"
+    style="margin:auto;overflow:visible;width:800px"
+  >
+    <div
+      class="MuiCardContent-root-id"
+    >
+      <div>
+        <div
+          class="ProductVariantCreateTabs-root-id"
+        >
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabActive-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Choose Attributes
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Select Values
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Prices and SKU
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Summary
+            </span>
+          </div>
+        </div>
+        <div
+          class="Hook-root-id"
+        >
+          <table
+            class="MuiTable-root-id"
+          >
+            <tbody
+              class="MuiTableBody-root-id"
+            >
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id"
+                      type="checkbox"
+                      value="false"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Author
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id Checkbox-checked-id"
+                      type="checkbox"
+                      value="true"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Box Size
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id"
+                      type="checkbox"
+                      value="false"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Brand
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id"
+                      type="checkbox"
+                      value="false"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Candy Box Size
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id Checkbox-checked-id"
+                      type="checkbox"
+                      value="true"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Coffee Genre
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id Checkbox-checked-id"
+                      type="checkbox"
+                      value="true"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Collar
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id"
+                      type="checkbox"
+                      value="false"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Color
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id"
+                      type="checkbox"
+                      value="false"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Cover
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id"
+                      type="checkbox"
+                      value="false"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Flavor
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id"
+                      type="checkbox"
+                      value="false"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Language
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id"
+                      type="checkbox"
+                      value="false"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Publisher
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id MuiTableCell-paddingCheckbox-id Hook-checkboxCell-id"
+                >
+                  <button
+                    class="MuiButtonBase-root-id Checkbox-root-id"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <input
+                      class="Checkbox-box-id"
+                      type="checkbox"
+                      value="false"
+                    />
+                  </button>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-wideCell-id"
+                >
+                  Size
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Views / Products / Create multiple variants interactive 1`] = `
+<div
+  style="padding:24px"
+/>
+`;
+
+exports[`Storyshots Views / Products / Create multiple variants prices and SKU 1`] = `
+<div
+  style="padding:24px"
+>
+  <div
+    class="MuiPaper-root-id MuiPaper-elevation1-id MuiPaper-rounded-id MuiCard-root-id"
+    style="margin:auto;overflow:visible;width:800px"
+  >
+    <div
+      class="MuiCardContent-root-id"
+    >
+      <div>
+        <div
+          class="ProductVariantCreateTabs-root-id"
+        >
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Choose Attributes
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Select Values
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabActive-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Prices and SKU
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Summary
+            </span>
+          </div>
+        </div>
+        <div
+          class="Hook-root-id"
+        >
+          <h5
+            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
+          >
+            Price
+          </h5>
+          <hr
+            class="Hr-root-id Hook-hr-id"
+          />
+          <div
+            class="MuiFormGroup-root-id"
+            role="radiogroup"
+          >
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <span
+                class="MuiButtonBase-root-id MuiIconButton-root-id MuiPrivateSwitchBase-root-id MuiRadio-root-id MuiRadio-colorPrimary-id"
+              >
+                <span
+                  class="MuiIconButton-label-id"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                    />
+                  </svg>
+                  <input
+                    class="MuiPrivateSwitchBase-input-id"
+                    type="radio"
+                    value="applyToAll"
+                  />
+                </span>
+              </span>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Apply single price to all SKUs
+              </span>
+            </label>
+            <div
+              class="FormSpacer-spacer-id"
+            />
+            <div
+              class="MuiFormControl-root-id Hook-shortInput-id"
+            >
+              <label
+                class="MuiFormLabel-root-id MuiFormLabel-filled-id MuiInputLabel-root-id MuiInputLabel-formControl-id MuiInputLabel-animated-id MuiInputLabel-shrink-id MuiInputLabel-outlined-id"
+                data-shrink="true"
+              >
+                Price
+              </label>
+              <div
+                class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-formControl-id"
+              >
+                <fieldset
+                  aria-hidden="true"
+                  class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                  style="padding-left:8px"
+                >
+                  <legend
+                    class="MuiPrivateNotchedOutline-legend-id"
+                    style="width:0"
+                  >
+                    <span>
+                      ​
+                    </span>
+                  </legend>
+                </fieldset>
+                <input
+                  aria-invalid="false"
+                  class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                  min="0"
+                  type="number"
+                  value="2.79"
+                />
+              </div>
+            </div>
+            <div
+              class="FormSpacer-spacer-id"
+            />
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <span
+                class="MuiButtonBase-root-id MuiIconButton-root-id MuiPrivateSwitchBase-root-id MuiRadio-root-id MuiRadio-colorPrimary-id MuiPrivateSwitchBase-checked-id MuiRadio-checked-id"
+              >
+                <span
+                  class="MuiIconButton-label-id"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                    />
+                  </svg>
+                  <input
+                    checked=""
+                    class="MuiPrivateSwitchBase-input-id"
+                    type="radio"
+                    value="applyToAttribute"
+                  />
+                </span>
+              </span>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Apply unique prices by attribute to each SKU
+              </span>
+            </label>
+          </div>
+          <div
+            class="FormSpacer-spacer-id"
+          />
+          <div
+            class="Grid-root-id Grid-inverted-id"
+          >
+            <div
+              class="Hook-label-id"
+            >
+              <p
+                class="MuiTypography-root-id MuiTypography-body2-id"
+              >
+                Choose attribute
+              </p>
+            </div>
+            <div>
+              <div
+                class="MuiFormControl-root-id SingleSelectField-formControl-id"
+              >
+                <label
+                  class="MuiFormLabel-root-id MuiFormLabel-filled-id MuiInputLabel-root-id MuiInputLabel-formControl-id MuiInputLabel-animated-id MuiInputLabel-shrink-id MuiInputLabel-filled-id"
+                  data-shrink="true"
+                >
+                  Attribute
+                </label>
+                <div
+                  class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                >
+                  <fieldset
+                    aria-hidden="true"
+                    class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                    style="padding-left:8px"
+                  >
+                    <legend
+                      class="MuiPrivateNotchedOutline-legend-id"
+                      style="width:143px"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                  <div
+                    class="MuiSelect-root-id"
+                  >
+                    <div
+                      aria-haspopup="true"
+                      aria-pressed="false"
+                      class="MuiSelect-select-id MuiSelect-selectMenu-id MuiSelect-outlined-id MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      role="button"
+                      tabindex="0"
+                    >
+                      Coffee Genre
+                    </div>
+                    <input
+                      type="hidden"
+                      value="UHJvZHVjdEF0dHJpYnV0ZTo1"
+                    />
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root-id MuiSelect-icon-id"
+                      focusable="false"
+                      role="presentation"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="FormSpacer-spacer-id"
+          />
+          <div
+            class="Grid-root-id Grid-inverted-id"
+          >
+            <div
+              class="Hook-label-id"
+            >
+              <p
+                class="MuiTypography-root-id MuiTypography-body2-id"
+              >
+                Arabica
+              </p>
+            </div>
+            <div>
+              <div
+                class="MuiFormControl-root-id MuiFormControl-fullWidth-id"
+              >
+                <label
+                  class="MuiFormLabel-root-id MuiFormLabel-filled-id MuiInputLabel-root-id MuiInputLabel-formControl-id MuiInputLabel-animated-id MuiInputLabel-shrink-id MuiInputLabel-outlined-id"
+                  data-shrink="true"
+                >
+                  Price
+                </label>
+                <div
+                  class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                >
+                  <fieldset
+                    aria-hidden="true"
+                    class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                    style="padding-left:8px"
+                  >
+                    <legend
+                      class="MuiPrivateNotchedOutline-legend-id"
+                      style="width:0"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                  <input
+                    aria-invalid="false"
+                    class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                    type="text"
+                    value="4.00"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="FormSpacer-spacer-id"
+          />
+          <div
+            class="Grid-root-id Grid-inverted-id"
+          >
+            <div
+              class="Hook-label-id"
+            >
+              <p
+                class="MuiTypography-root-id MuiTypography-body2-id"
+              >
+                Robusta
+              </p>
+            </div>
+            <div>
+              <div
+                class="MuiFormControl-root-id MuiFormControl-fullWidth-id"
+              >
+                <label
+                  class="MuiFormLabel-root-id MuiFormLabel-filled-id MuiInputLabel-root-id MuiInputLabel-formControl-id MuiInputLabel-animated-id MuiInputLabel-shrink-id MuiInputLabel-outlined-id"
+                  data-shrink="true"
+                >
+                  Price
+                </label>
+                <div
+                  class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                >
+                  <fieldset
+                    aria-hidden="true"
+                    class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                    style="padding-left:8px"
+                  >
+                    <legend
+                      class="MuiPrivateNotchedOutline-legend-id"
+                      style="width:0"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                  <input
+                    aria-invalid="false"
+                    class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                    type="text"
+                    value="5.00"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="FormSpacer-spacer-id"
+          />
+          <h5
+            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
+          >
+            Stock
+          </h5>
+          <hr
+            class="Hr-root-id Hook-hr-id"
+          />
+          <div
+            class="MuiFormGroup-root-id"
+            role="radiogroup"
+          >
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <span
+                class="MuiButtonBase-root-id MuiIconButton-root-id MuiPrivateSwitchBase-root-id MuiRadio-root-id MuiRadio-colorPrimary-id"
+              >
+                <span
+                  class="MuiIconButton-label-id"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                    />
+                  </svg>
+                  <input
+                    class="MuiPrivateSwitchBase-input-id"
+                    type="radio"
+                    value="applyToAll"
+                  />
+                </span>
+              </span>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Apply single stock to all SKUs
+              </span>
+            </label>
+            <div
+              class="FormSpacer-spacer-id"
+            />
+            <div
+              class="MuiFormControl-root-id Hook-shortInput-id"
+            >
+              <label
+                class="MuiFormLabel-root-id MuiFormLabel-filled-id MuiInputLabel-root-id MuiInputLabel-formControl-id MuiInputLabel-animated-id MuiInputLabel-shrink-id MuiInputLabel-outlined-id"
+                data-shrink="true"
+              >
+                Stock
+              </label>
+              <div
+                class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-formControl-id"
+              >
+                <fieldset
+                  aria-hidden="true"
+                  class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                  style="padding-left:8px"
+                >
+                  <legend
+                    class="MuiPrivateNotchedOutline-legend-id"
+                    style="width:0"
+                  >
+                    <span>
+                      ​
+                    </span>
+                  </legend>
+                </fieldset>
+                <input
+                  aria-invalid="false"
+                  class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                  min="0"
+                  type="number"
+                  value="8"
+                />
+              </div>
+            </div>
+            <div
+              class="FormSpacer-spacer-id"
+            />
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <span
+                class="MuiButtonBase-root-id MuiIconButton-root-id MuiPrivateSwitchBase-root-id MuiRadio-root-id MuiRadio-colorPrimary-id MuiPrivateSwitchBase-checked-id MuiRadio-checked-id"
+              >
+                <span
+                  class="MuiIconButton-label-id"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root-id"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                    />
+                  </svg>
+                  <input
+                    checked=""
+                    class="MuiPrivateSwitchBase-input-id"
+                    type="radio"
+                    value="applyToAttribute"
+                  />
+                </span>
+              </span>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Apply unique stock by attribute to each SKU
+              </span>
+            </label>
+          </div>
+          <div
+            class="FormSpacer-spacer-id"
+          />
+          <div
+            class="Grid-root-id Grid-inverted-id"
+          >
+            <div
+              class="Hook-label-id"
+            >
+              <p
+                class="MuiTypography-root-id MuiTypography-body2-id"
+              >
+                Choose attribute
+              </p>
+            </div>
+            <div>
+              <div
+                class="MuiFormControl-root-id SingleSelectField-formControl-id"
+              >
+                <label
+                  class="MuiFormLabel-root-id MuiFormLabel-filled-id MuiInputLabel-root-id MuiInputLabel-formControl-id MuiInputLabel-animated-id MuiInputLabel-shrink-id MuiInputLabel-filled-id"
+                  data-shrink="true"
+                >
+                  Attribute
+                </label>
+                <div
+                  class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                >
+                  <fieldset
+                    aria-hidden="true"
+                    class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                    style="padding-left:8px"
+                  >
+                    <legend
+                      class="MuiPrivateNotchedOutline-legend-id"
+                      style="width:143px"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                  <div
+                    class="MuiSelect-root-id"
+                  >
+                    <div
+                      aria-haspopup="true"
+                      aria-pressed="false"
+                      class="MuiSelect-select-id MuiSelect-selectMenu-id MuiSelect-outlined-id MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      role="button"
+                      tabindex="0"
+                    >
+                      Coffee Genre
+                    </div>
+                    <input
+                      type="hidden"
+                      value="UHJvZHVjdEF0dHJpYnV0ZTo1"
+                    />
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root-id MuiSelect-icon-id"
+                      focusable="false"
+                      role="presentation"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="FormSpacer-spacer-id"
+          />
+          <div
+            class="Grid-root-id Grid-inverted-id"
+          >
+            <div
+              class="Hook-label-id"
+            >
+              <p
+                class="MuiTypography-root-id MuiTypography-body2-id"
+              >
+                Arabica
+              </p>
+            </div>
+            <div>
+              <div
+                class="MuiFormControl-root-id MuiFormControl-fullWidth-id"
+              >
+                <label
+                  class="MuiFormLabel-root-id MuiFormLabel-filled-id MuiInputLabel-root-id MuiInputLabel-formControl-id MuiInputLabel-animated-id MuiInputLabel-shrink-id MuiInputLabel-outlined-id"
+                  data-shrink="true"
+                >
+                  Stock
+                </label>
+                <div
+                  class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                >
+                  <fieldset
+                    aria-hidden="true"
+                    class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                    style="padding-left:8px"
+                  >
+                    <legend
+                      class="MuiPrivateNotchedOutline-legend-id"
+                      style="width:0"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                  <input
+                    aria-invalid="false"
+                    class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                    type="text"
+                    value="30"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="FormSpacer-spacer-id"
+          />
+          <div
+            class="Grid-root-id Grid-inverted-id"
+          >
+            <div
+              class="Hook-label-id"
+            >
+              <p
+                class="MuiTypography-root-id MuiTypography-body2-id"
+              >
+                Robusta
+              </p>
+            </div>
+            <div>
+              <div
+                class="MuiFormControl-root-id MuiFormControl-fullWidth-id"
+              >
+                <label
+                  class="MuiFormLabel-root-id MuiFormLabel-filled-id MuiInputLabel-root-id MuiInputLabel-formControl-id MuiInputLabel-animated-id MuiInputLabel-shrink-id MuiInputLabel-outlined-id"
+                  data-shrink="true"
+                >
+                  Stock
+                </label>
+                <div
+                  class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                >
+                  <fieldset
+                    aria-hidden="true"
+                    class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                    style="padding-left:8px"
+                  >
+                    <legend
+                      class="MuiPrivateNotchedOutline-legend-id"
+                      style="width:0"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                  <input
+                    aria-invalid="false"
+                    class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                    type="text"
+                    value="29"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Views / Products / Create multiple variants select values 1`] = `
+<div
+  style="padding:24px"
+>
+  <div
+    class="MuiPaper-root-id MuiPaper-elevation1-id MuiPaper-rounded-id MuiCard-root-id"
+    style="margin:auto;overflow:visible;width:800px"
+  >
+    <div
+      class="MuiCardContent-root-id"
+    >
+      <div>
+        <div
+          class="ProductVariantCreateTabs-root-id"
+        >
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Choose Attributes
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabActive-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Select Values
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Prices and SKU
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Summary
+            </span>
+          </div>
+        </div>
+        <div
+          class="Hook-root-id"
+        >
+          <h5
+            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
+          >
+            Box Size
+          </h5>
+          <hr
+            class="Hr-root-id Hook-hr-id"
+          />
+          <div
+            class="Hook-valueContainer-id"
+          >
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id Checkbox-checked-id"
+                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjE1"
+                  type="checkbox"
+                  value="true"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                100g
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id"
+                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjE2"
+                  type="checkbox"
+                  value="false"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                250g
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id Checkbox-checked-id"
+                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjE3"
+                  type="checkbox"
+                  value="true"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                500g
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id"
+                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjE4"
+                  type="checkbox"
+                  value="false"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                1kg
+              </span>
+            </label>
+          </div>
+          <h5
+            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
+          >
+            Coffee Genre
+          </h5>
+          <hr
+            class="Hr-root-id Hook-hr-id"
+          />
+          <div
+            class="Hook-valueContainer-id"
+          >
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id Checkbox-checked-id"
+                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjEz"
+                  type="checkbox"
+                  value="true"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Arabica
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id"
+                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjE0"
+                  type="checkbox"
+                  value="false"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Robusta
+              </span>
+            </label>
+          </div>
+          <h5
+            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
+          >
+            Collar
+          </h5>
+          <hr
+            class="Hr-root-id Hook-hr-id"
+          />
+          <div
+            class="Hook-valueContainer-id"
+          >
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id Checkbox-checked-id"
+                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjM="
+                  type="checkbox"
+                  value="true"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Round
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id"
+                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjQ="
+                  type="checkbox"
+                  value="false"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                V-Neck
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id Checkbox-checked-id"
+                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjU="
+                  type="checkbox"
+                  value="true"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Polo
+              </span>
+            </label>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Views / Products / Create multiple variants summary 1`] = `
+<div
+  style="padding:24px"
+>
+  <div
+    class="MuiPaper-root-id MuiPaper-elevation1-id MuiPaper-rounded-id MuiCard-root-id"
+    style="margin:auto;overflow:visible;width:800px"
+  >
+    <div
+      class="MuiCardContent-root-id"
+    >
+      <div>
+        <div
+          class="ProductVariantCreateTabs-root-id"
+        >
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Choose Attributes
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Select Values
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Prices and SKU
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabActive-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Summary
+            </span>
+          </div>
+        </div>
+        <div
+          class="Hook-root-id"
+        >
+          <h5
+            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
+          >
+            You will create variants below
+          </h5>
+          <hr
+            class="Hr-root-id Hook-hr-id"
+          />
+          <table
+            class="MuiTable-root-id"
+          >
+            <thead
+              class="MuiTableHead-root-id"
+            >
+              <tr
+                class="MuiTableRow-root-id MuiTableRow-head-id"
+              >
+                <th
+                  class="MuiTableCell-root-id MuiTableCell-head-id Hook-col-id Hook-colName-id"
+                  scope="col"
+                >
+                  Variant
+                </th>
+                <th
+                  class="MuiTableCell-root-id MuiTableCell-head-id Hook-col-id Hook-colStock-id"
+                  scope="col"
+                >
+                  Inventory
+                </th>
+                <th
+                  class="MuiTableCell-root-id MuiTableCell-head-id Hook-col-id Hook-colPrice-id"
+                  scope="col"
+                >
+                  Price
+                </th>
+                <th
+                  class="MuiTableCell-root-id MuiTableCell-head-id Hook-col-id Hook-colSku-id"
+                  scope="col"
+                >
+                  SKU
+                </th>
+              </tr>
+            </thead>
+            <tbody
+              class="MuiTableBody-root-id"
+            >
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colName-id"
+                >
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#1565c0"
+                  >
+                    100g
+                  </span>
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#00838f"
+                  >
+                    Arabica
+                  </span>
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#2e7d32"
+                  >
+                    Round
+                  </span>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colStock-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                        min="0"
+                        type="number"
+                        value="30"
+                      />
+                    </div>
+                  </div>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colPrice-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                        min="0"
+                        type="number"
+                        value="4.00"
+                      />
+                      USD
+                    </div>
+                  </div>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colSku-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0.01px"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colName-id"
+                >
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#1565c0"
+                  >
+                    100g
+                  </span>
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#00838f"
+                  >
+                    Arabica
+                  </span>
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#2e7d32"
+                  >
+                    Polo
+                  </span>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colStock-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                        min="0"
+                        type="number"
+                        value="30"
+                      />
+                    </div>
+                  </div>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colPrice-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                        min="0"
+                        type="number"
+                        value="4.00"
+                      />
+                      USD
+                    </div>
+                  </div>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colSku-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0.01px"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colName-id"
+                >
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#1565c0"
+                  >
+                    500g
+                  </span>
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#00838f"
+                  >
+                    Arabica
+                  </span>
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#2e7d32"
+                  >
+                    Round
+                  </span>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colStock-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                        min="0"
+                        type="number"
+                        value="30"
+                      />
+                    </div>
+                  </div>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colPrice-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                        min="0"
+                        type="number"
+                        value="4.00"
+                      />
+                      USD
+                    </div>
+                  </div>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colSku-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0.01px"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr
+                class="MuiTableRow-root-id"
+              >
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colName-id"
+                >
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#1565c0"
+                  >
+                    500g
+                  </span>
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#00838f"
+                  >
+                    Arabica
+                  </span>
+                  <span
+                    class="Hook-attributeValue-id"
+                    style="color:#2e7d32"
+                  >
+                    Polo
+                  </span>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colStock-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                        min="0"
+                        type="number"
+                        value="30"
+                      />
+                    </div>
+                  </div>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colPrice-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                        min="0"
+                        type="number"
+                        value="4.00"
+                      />
+                      USD
+                    </div>
+                  </div>
+                </td>
+                <td
+                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colSku-id"
+                >
+                  <div
+                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
+                  >
+                    <div
+                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                    >
+                      <fieldset
+                        aria-hidden="true"
+                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                        style="padding-left:8px"
+                      >
+                        <legend
+                          class="MuiPrivateNotchedOutline-legend-id"
+                          style="width:0.01px"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                      <input
+                        aria-invalid="false"
+                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Views / Products / Create product When loading 1`] = `
 <div
   style="padding:24px"
